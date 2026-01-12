@@ -24,8 +24,7 @@ This dataset contains detailed records of reported crimes in Los Angeles, includ
 
 - Crime type and crime code descriptions  
 - Occurrence and reporting dates  
-- Victim age, gender, and descent  
-- Weapon information  
+- Victim age, gender, and descent   
 - Premise/location type  
 - Geographic coordinates (latitude & longitude)
   
